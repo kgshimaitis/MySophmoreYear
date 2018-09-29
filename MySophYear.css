@@ -1,0 +1,63 @@
+h1{
+  font-size:50px;
+  color:#7af9d3;
+}
+h2{
+  font-size:40px;
+  color:#7c6fed;
+  font-family: serif;
+}
+p{
+  color: yellow;
+}
+
+.firstP{
+  color:#12126d;
+}
+
+.secondP{
+  color: #54bc43
+}
+
+.thirdP{
+  color: #ff026f
+}
+
+.fourthP{
+  color: #9429a0
+}
+
+.fifthP{
+  color:#ffdc30
+}
+
+.sixthP{
+  color: #66f4ff
+}
+
+.seventhP{
+  font-size:30px;
+}
+
+h3{
+  color: #112a51
+}
+.schedule{
+  width: 400px;
+  height: 500px;
+}
+
+.eighthP{
+  color: #f93636;
+}
+
+.ninthP{
+  color:#f93636;
+}
+
+.tenthP{
+  color: #f93636
+}
+body{
+  background-color:#f2fffa;
+}
