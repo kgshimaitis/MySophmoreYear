@@ -4,8 +4,24 @@ h1{
 }
 h2{
   font-size:40px;
-  color:#7c6fed;
+  color:#7af9d3;
   font-family: serif;
+}
+h3{
+  color: #7af9d3;
+  font-size: 20px;
+}
+h4{
+  font-size: 20px;
+  color:#7af9d3;
+}
+h5{
+    color: #7af9d3;
+
+}
+h6{
+  font-size: 20px;
+  color:#7af9d3;
 }
 p{
   color: yellow;
@@ -39,9 +55,6 @@ p{
   font-size:30px;
 }
 
-h3{
-  color: #112a51
-}
 .schedule{
   width: 400px;
   height: 500px;
@@ -59,5 +72,9 @@ h3{
   color: #f93636
 }
 body{
-  background-color:#f2fffa;
+  background-color:#393a3d;
+}
+.list1{
+  color:#1251b7
+
 }
